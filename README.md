@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Robotics
 - 🌱 I’m currently learning AI/ML
 - 📫 How to reach me [https://www.linkedin.com/in/abdullah-ali-2k4/]
-- ⚡ Fun fact: AI and robotics are like the ultimate tag team—AI does the thinking, while robots do the heavy lifting. Together, they’re basically the brains and brawn of the tech world... minus the gym membership!
+- ⚡ Fun fact: AI and robots are like a nerd and a bodybuilder trying to rob a bank—AI’s calculating the perfect plan, and the robot walks into the wall because someone forgot to update its GPS. Together, they might take over the world... if they can find the door first. 🤖🧠🚪
 
 <!---
 Abdullah-Ali2k4/Abdullah-Ali2k4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
